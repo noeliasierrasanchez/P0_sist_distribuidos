@@ -1,0 +1,11 @@
+{
+  "name": "p0_sist_distribuidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noelia",
+  "license": "ISC"
+}
